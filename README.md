@@ -1,3 +1,12 @@
+# Summary
+
+Models for a innovative fully robotic warehouse for storing boxed goods.
+A discrete multiagent simulation of the movement of shuttles in a warehouse for a given sequence of pallet shipments has been implemented. Different strategies for placement of boxes in various areas of a warehouse are evaluated, as well as optimal routing patterns for shuttles for a given topology of a warehouse. Also estimated is the optimal number of shuttles that maximizes the warehouse productivity.
+
+# Keywords
+
+robotic warehouse, boxes placement optimization, multiagent simulation, ROSS, C
+
 # Usage
 
 If you are creating your own model feel free to fork this repository.
