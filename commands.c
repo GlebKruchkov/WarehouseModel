@@ -1,6 +1,5 @@
 #include "model.h"
 
-//extern sqlite3 *db;
 
 int callback(void *NotUsed, int argc, char **argv, char **azColName) {
     if (atoi(argv[1]) > best_box.row) {
